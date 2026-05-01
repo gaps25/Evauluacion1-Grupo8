@@ -1,11 +1,11 @@
 *.o
 *out
 *.exe
-*dll
+*.dll
 
-build/
-bin/
-obj/
+*build/
+*bin/
+*obj/
 
 *.env
 *.env.local
@@ -13,9 +13,8 @@ obj/
 *.log
 *logs/
 
-*.vscode/
+*vscode/
 *.code-workspace
 
 *Thumbs.db
-*.DS_Store
-
+*.DS_store
